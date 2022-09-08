@@ -1,2 +1,4 @@
 This is a text file
 This file is being edited
+=========================
+This is a new line
